@@ -1,0 +1,41 @@
+Description = "欢迎来到花荣的小站，这里专注分享技术和职场感悟"
+Keywords =  "博客, 程序员, 架构师, 思考, 读书, 笔记, 技术, 分享, 大数据, 产品"
+Subtitle = "勇往向前"
+AuthorImg = "/img/avatar.jpg"
+AuthorName = "花荣"
+Introduce = "做个有追求的人"
+DateFormat = "2006-01-02"
+YearFormat = "2006年"
+MonthFormat = "01-02"
+
+#[Footer]
+#  StorageLink = "https://www.ucloud.cn/"
+#  StorageName = "UCloud云存储"
+#  ICPLink = "http://beian.miit.gov.cn"
+#  ICPNo = "粤ICP备18047355号"
+
+[[Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/huarong8/"
+
+#[[Socials]]
+#  Name = "知乎"
+#  Icon = "globe"
+#  URL = "https://www.zhihu.com/people/fan-meng-xing-chen-1"
+#
+#[[Links]]
+#  Name = "Nutz"
+#  Permalink = "https://nutzam.com/"
+#
+#[[Links]]
+#  Name = "JFinal"
+#  Permalink = "https://jfinal.com/"
+#
+#[[Links]]
+#  Name = "Wendal"
+#  Permalink = "http://wendal.net/"
+#
+#[[Links]]
+#  Name = "廖雪峰"
+#  Permalink = "https://www.liaoxuefeng.com/"
