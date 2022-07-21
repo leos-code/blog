@@ -1,18 +1,18 @@
-Description = "欢迎来到花荣的小站，这里专注分享技术和职场感悟"
+Description = "欢迎来到jett的小站，这里专注分享技术和职场感悟"
 Keywords =  "博客, 程序员, 架构师, 思考, 读书, 笔记, 技术, 分享, 大数据, 产品"
-Subtitle = "勇往向前"
+Subtitle = "路虽远，行则将至；事虽难，做则必成。"
 AuthorImg = "/img/avatar.jpg"
-AuthorName = "花荣"
+AuthorName = "jett"
 Introduce = "做个有追求的人"
 DateFormat = "2006-01-02"
 YearFormat = "2006年"
 MonthFormat = "01-02"
 
-#[Footer]
-#  StorageLink = "https://www.ucloud.cn/"
-#  StorageName = "UCloud云存储"
-#  ICPLink = "http://beian.miit.gov.cn"
-#  ICPNo = "粤ICP备18047355号"
+[Footer]
+  #StorageLink = "https://www.ucloud.cn/"
+  #StorageName = "UCloud云存储"
+  ICPLink = "https://beian.miit.gov.cn/"
+  ICPNo = "京ICP备2021014635号-2"
 
 [[Socials]]
   Name = "GitHub"

@@ -8,11 +8,11 @@ DateFormat = "2006/01/02"
 YearFormat = "2006Y"
 MonthFormat = "01/02"
 
-#[Footer]
+[Footer]
 #  StorageLink = "https://www.ucloud.cn/"
 #  StorageName = "UCloud Storage"
-#  ICPLink = "http://beian.miit.gov.cn"
-#  ICPNo = "ICP.NO 18047355"
+  ICPLink = "https://beian.miit.gov.cn"
+  ICPNo = "京ICP备2021014635号-2"
 
 [[Socials]]
   Name = "GitHub"
